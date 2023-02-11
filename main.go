@@ -11,6 +11,6 @@ func World(i int) string {
 }
 func main() {
 	fmt.Print("Hello ")
-	suffix := World(5)
+	suffix := World(2)
 	fmt.Println(suffix)
 }
