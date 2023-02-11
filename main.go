@@ -4,9 +4,9 @@ import "fmt"
 
 func World(i int) string {
 	if i == 5 {
-		return "1World!"
+		return "World!"
 	} else {
-		return "New World!"
+		return "1New World!"
 	}
 }
 func main() {
